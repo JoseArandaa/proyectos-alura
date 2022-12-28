@@ -143,6 +143,7 @@ td, th{
 
 .banner{
     width: 100%;
+    opacity: 80%;
 }
 .principal{
     padding: 3em;
@@ -225,7 +226,7 @@ td, th{
 }
 .video{
     width: 560px;
-    margin: 2em auto;
+    margin: 3em auto;
 }
 
 @media screen and (max-width:480px){
